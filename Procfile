@@ -1,0 +1,1 @@
+background: bundle exec sidekiq -c 10
